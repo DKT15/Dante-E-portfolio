@@ -684,12 +684,13 @@ footer {
         text-align: center;
         opacity: 1;
         transition: none;
-        top: 28px;
+        transform: none;
     }
     .project__description--sub-title {
         margin-bottom: 8px;
         opacity: 1;
         transition: none;
+        transform: none;
     }
     .modal__half {
         padding: 40px;

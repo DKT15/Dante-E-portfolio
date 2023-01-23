@@ -678,8 +678,8 @@ footer {
         display: none;
     }
     .project__img--fes {
-        width: auto;
-        height: auto;
+        width: max-content;
+        height: max-content;
     }
     .project__description {
         left: 0;

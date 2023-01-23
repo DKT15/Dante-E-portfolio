@@ -677,6 +677,10 @@ footer {
     .project__description--para {
         display: none;
     }
+    .project__img--fes {
+        width: auto;
+        height: auto;
+    }
     .project__description {
         left: 0;
         padding: 0;

@@ -674,17 +674,23 @@ footer {
     .nav__link:first-child { /* this gets rid of the about link */
         display: none;
     }
-    .project__description--title {
-        transition: none;
+      .project__description--title .scroll {
+        opacity: 1;
+        transition: opacity 300ms, transform 450ms ease;
+        color: #fff;
     }
-    .project__description--sub-title {
-        transition: none;
+    .project__description--sub-title .scroll {
+        opacity: 1;
+        transition: opacity 300ms, transform 450ms ease;
+        color: #fff;
     }
     .project__description--para {
         display: none;
     }
-    .project__description--link {
-        transition: none;
+    .project__description--link .scroll {
+        opacity: 1;
+        transition: opacity 300ms, transform 450ms ease;
+        color: #fff;
     }
     .project__description {
         left: 0;

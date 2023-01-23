@@ -675,16 +675,16 @@ footer {
         display: none;
     }
     .project__description--title {
-        display: block;
+        transition: none;
     }
     .project__description--sub-title {
-        display: block;
+        transition: none;
     }
     .project__description--para {
         display: none;
     }
     .project__description--link {
-        display: block;
+        transition: none;
     }
     .project__description {
         left: 0;

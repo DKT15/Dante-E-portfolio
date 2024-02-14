@@ -2,28 +2,71 @@
 
 ## Description
 
-This portfolio's purpose, is to showcase my skills and talents to employers looking to fill a part-time or full-time position. This website is to hold all of the web applications I build to show my capabilities. This project will hopefully enable me to standout to employers, so I don't have to just rely on my CV/Resume.
+This is a portfolio website allows users to contact me and view my projects.
 
-Whilst doing this project, I have learnt about HTML, CSS Grids, CSS flexbox, media queries, and CSS variables. 
+## Table of Contents
 
-## Installation
+- [Technologies Used](#technology)
+- [Features](#features)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [About Me](#aboutme)
+- [License](#license)
 
-Using the live link will enable you to use this application.
+## Technologies Used
+
+- HTML
+- CSS
+- Javascript
+- [Fontawsome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+
+## Features
+
+- About
+  - Modal opens that has an about section.
+- Projects
+- Contact
+  - Modal opens that allows you contact me.
+- Theme switcher - allows the website to go either light or dark mode.
+- Mail button - Allows you to contact me
 
 ## Usage
 
-The website is easy to use.
+1. The About and Contact tabs as well as the mail icon in the bottom right of the page, will take you to a modal that will tell you a bit about me (on the left). There will also be an option for you to enter in your contact details (on the right).
 
-Below is a screenshot of my portfolio:
+2. The projects tab will take you down to my projects.
 
-    ```md
-    ![This is an image of my portfolio.]()
-    ```
+3. The light blue LinkedIn button, will take you to my LinkedIn profile.
 
-## Credits
+4. The light blue Github button will take you to my Github profile.
 
-N/A
+5. The light blue PDF button will allow you to view my Cv.
+
+6. The black and white button at in the navbar on the far right will allow yo to change the website theme.
+
+## Screenshot
+
+![Portfolio website image](/assets/eportfolio-image.jpg)
+
+## Deployment
+
+You can access the website with this link [here](https://dkt15.github.io/Dante-E-portfolio/)
+
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or improvement.
+3. Make changes and submit a pull request.
+
+## 🚀 About Me
+
+[Danté Kellman-Thompson](https://github.com/DKT15)
 
 ## License
 
-Please refer to the license in the repo.
+This project is not under a license.
